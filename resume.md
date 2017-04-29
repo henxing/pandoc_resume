@@ -1,100 +1,103 @@
-Johnny Coder
-============
+Hugh M. Enxing
+==============
 
-----
+-------------------     ----------------------------
+8 Auburn St.                       henxing@gmail.com
+Medford, MA 02155         https://github.com/henxing
+USA                                +1 (781) 502-8813
+-------------------     ----------------------------
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+Skills & Expertise
+------------------
 
-----
+**Languages**: C/C++, MATLAB, Bash, Python, C#, Java
 
-Education
----------
+**Methodologies**: Scrum, object-oriented software design
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+**Tools**: Git, Mercurial, Subversion, JIRA, Confluence, Vim, Eclipse, PyCharm
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+**Operating Systems**: Linux, OS X, Windows
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+**Skills**: software architecture, image processing, product engineering and development
 
-    *Minor: Awesomeology*
+**Security Clearance**: Secret
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+Jan 2016 - Present
+:   **Senior Software Engineer**; Draper (Cambridge, MA)
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
 
-* First item
+    I am a part of the Data Analytics and Software Solutions group with the
+    goal of implementing robust, reusable algorithms to solve a wide variety of
+    problems.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    * HCI Project
+        * Software Task Lead in charge of Python prototype design and
+          development
+    * Matlab Refactor Project
+        * Task lead in charge of refactoring a pile of MATLAB code into
+          packages and classes for robustness, reusability, and extendability
+    * Dream Chaser
+        * Task lead in charge of the initial delivery of a core subsystem
 
-**That Other Job You Had**
+Sept 2013 - Jan 2016
+:   **Autonomy Software Engineer**; Shell TechWorks (Cambridge, MA)
 
-Also with a short description.
+    I was part of a small software development team with the goal of solving
+    problems in the oil and gas industry. We worked together with small teams
+    of mechanical, electrical, and systems engineers. My responsibilities and
+    achievements included:
 
-Technical Experience
---------------------
+    * Object-oriented software development and design in C++
+    * Trained the software team in Scrum
+    * Leading software development on Automated Pipe Sensing project
+        * Small team using the Scrum development framework
+        * Work closely with mechanical and electrical teams to coordinate our
+          efforts
+        * Deployed permanent installation of prototype on test oil rig in the
+          Netherlands
+    * Panelist for Cambridge Innovation Center’s Youth Outreach Program
+    * TechWorks representative at MIT Undergraduate Practice Opportunities
+      Program
+    * Awarded Shell TechWorks Distinguished Engineer in December 2013
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+June 2010 - Aug 2013
+:   **Signal Processing Scientist**; E Ink Corporation (Cambridge, MA)
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    I was part of a product development team with the goal of bringing new
+    technologies from R&D into the production phase. My responsibilities
+    included:
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+    * Image and signal processing in MATLAB
+    * C/C++ programming for embedded Linux systems
+    * Bash scripting for embedded Linux systems
+    * Product engineering liaison to the application engineering team
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Sept 2008 - May 2010
+:   **System Administrator**; University of Massachusetts Research Computing Facility (Amherst, MA)
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+    I maintained all of the Linux, Windows and Apple computers in the
+    Mathematics and Statistics department, as well as backend services on
+    CentOS servers. 
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+June 2007 - Aug 2007 
+:   **Lab Assistant**; Boston University Physics Department (Villigen, Switzerland)
 
-[ref]: https://github.com/githubuser/superlongprojectname
+    I was part of a group responsible for running an experiment at the Paul
+    Scherrer Institute, a particle accelerator and engineering science center.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+2004 - 2008
+:   **Senior Consultant**; ResNet Computer Labs (Boston University)
 
-* Human Languages:
+Education
+---------
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+2008-2010
+:   **MS, Applied Mathematics**; University of Massachusetts Amherst (Amherst, MA)
 
-* Random tidbit
+2004-2008
+:   **BA, Mathematics and Physics**; Boston University (Boston, MA)
 
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry

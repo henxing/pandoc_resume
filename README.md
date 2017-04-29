@@ -3,10 +3,12 @@ The Markdown Resume
 
 Instructions:
 
-    git clone https://github.com/mszep/pandoc_resume
-    cd pandoc_resume
-    vim resume.md   #insert your own resume info
-    make
+```bash
+$ git clone https://github.com/henxing/pandoc_resume
+$ cd pandoc_resume
+$ vim resume.md   #insert your own resume info
+$ make
+```
 
 Requirements:
 
