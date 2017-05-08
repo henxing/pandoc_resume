@@ -1,11 +1,11 @@
 Hugh M. Enxing
 ==============
 
--------------------     ----------------------------
-8 Auburn St.                       henxing@gmail.com
-Medford, MA 02155         https://github.com/henxing
-USA                                +1 (781) 502-8813
--------------------     ----------------------------
+-------------------     ------------------------------
+8 Auburn St.                     [henxing@gmail.com]()
+Medford, MA 02155       [https://github.com/henxing]()
+USA                                  +1 (781) 502-8813
+-------------------     ------------------------------
 
 Skills & Expertise
 ------------------
