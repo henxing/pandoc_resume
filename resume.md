@@ -10,7 +10,7 @@ USA                                  +1 (781) 502-8813
 Skills & Expertise
 ------------------
 
-**Languages**: C/C++, MATLAB, Bash, Python, C#, Java
+**Languages**: C/C++, Bash, Python, MATLAB, C#, Java
 
 **Methodologies**: Scrum, object-oriented software design
 
@@ -18,7 +18,7 @@ Skills & Expertise
 
 **Operating Systems**: Linux, OS X, Windows
 
-**Skills**: software architecture, image processing, product engineering and development
+**Skills**: software architecture, autonomy, product engineering and development
 
 **Security Clearance**: Secret
 
@@ -39,7 +39,7 @@ Jan 2016 - Present
     * Matlab Refactor Project
         * Task lead in charge of refactoring a pile of MATLAB code into
           packages and classes for robustness, reusability, and extendability
-    * Dream Chaser
+    * DreamChaser
         * Task lead in charge of the initial delivery of a core subsystem
 
 Sept 2013 - Jan 2016
