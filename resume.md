@@ -10,11 +10,11 @@ USA                                  +1 (781) 502-8813
 Skills & Expertise
 ------------------
 
-**Languages**: C/C++, Bash, Python, MATLAB, C#, Java
+**Languages**: C/C++, Python, Java, Bash, MATLAB, C#
 
-**Methodologies**: Scrum, object-oriented software design
+**Methodologies**: Agile/Scrum, object-oriented software design
 
-**Tools**: Git, Mercurial, Subversion, JIRA, Confluence, Vim, Eclipse, PyCharm
+**Tools**: Git, Mercurial, Subversion, JIRA, Confluence, Vim
 
 **Operating Systems**: Linux, OS X, Windows
 
@@ -33,14 +33,29 @@ Jan 2016 - Present
     goal of implementing robust, reusable algorithms to solve a wide variety of
     problems.
 
-    * HCI Project
-        * Software Task Lead in charge of Python prototype design and
-          development
-    * Matlab Refactor Project
-        * Task lead in charge of refactoring a pile of MATLAB code into
-          packages and classes for robustness, reusability, and extendability
-    * DreamChaser
-        * Task lead in charge of the initial delivery of a core subsystem
+    * HCI Project (Task Lead)
+        * Design and developement of a Python prototype
+        * Lead a team of four software developers
+        * Managed technical execution using Agile methodologies
+    * Matlab Refactor Project (Task Lead)
+        * Refactoring a pile of MATLAB code into packages and classes for
+          robustness, reusability, and extendability
+        * Lead a team of four software developers of varying skill sets
+        * Managed technical execution
+    * DreamChaser (Task Lead)
+        * Initial delivery of a core subsystem of the autonomous resupply
+          vehicle for the ISS
+        * Lead a team of 8 software developers
+        * Interpreted high level customer requirements and created detailed
+          system requirements
+        * Managed technical execution using Agile methodologies
+    * Big Data Analytics (Task Lead)
+        * Software architecture for analysis pipeline on AWS
+        * Lead a team of four software developers
+    * Warfighter Analytics using Smartphones for Health (Technical Director)
+        * Managing technical execution of the program
+        * Selecting the team of software developers
+        * Coordinating with the Program Manager to meet schedule and budget
 
 Sept 2013 - Jan 2016
 :   **Autonomy Software Engineer**; Shell TechWorks (Cambridge, MA)
